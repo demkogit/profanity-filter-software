@@ -9,3 +9,5 @@ ____
 # Зависимости (программы)
 - Sox (http://sox.sourceforge.net)
 - Ffmpeg (https://www.ffmpeg.org)
+____
+# Модель распознавания - https://drive.google.com/file/d/1vrgHZ3S6cKOLZb_EnvCaLe2QX3OTsxhC/view?usp=sharing
