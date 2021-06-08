@@ -11,4 +11,6 @@ ____
 - Ffmpeg (https://www.ffmpeg.org)
 ____
 # Модель распознавания 
+Модель обучена на открытом наборе данных - 100 ч. (http://www.openslr.org/96/)
++ на своем голосе - 10 ч.
 https://drive.google.com/file/d/1vrgHZ3S6cKOLZb_EnvCaLe2QX3OTsxhC/view?usp=sharing
