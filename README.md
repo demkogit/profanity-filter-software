@@ -8,7 +8,7 @@ ____
 ____
 # Зависимости (программы)
 - Sox (http://sox.sourceforge.net)
-- Ffmpeg (https://www.ffmpeg.org)
+- FFmpeg (https://www.ffmpeg.org)
 ____
 # Модель распознавания 
 Модель обучена на открытом наборе данных - 100 ч. (http://www.openslr.org/96/)    
